@@ -1,7 +1,7 @@
 {
-	"master.permadeath": {
+	"master.worrideath": {
 		"sounds": [
-			"master/permadeath"
+			"master/worrideath"
 		]
 	}
 }
